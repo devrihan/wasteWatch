@@ -96,6 +96,7 @@
 3. **User Interaction**:  
    - Users can interact with the AI chatbot for eco-friendly tips or assistance.
    - The map feature allows users to find trash bins, call garbage trucks, and join cleanliness drives.
+   - Uses Google's route optimization algorithm to efficiently route multiple trucks to multiple bins.
 
 4. **Events & Incentives**:  
    - Users earn eco-points by joining and participating in cleanliness events.
